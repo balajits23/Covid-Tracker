@@ -1,0 +1,111 @@
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:lightgray;
+}
+#India{
+    margin-top: 50px;
+    margin-left: 460px;
+    font-size: 50px;
+}
+#search{
+    width: 400px;
+    height: 50px;
+    border-radius: 8px;
+    margin-left: 540px;
+    font-size: 20px;
+}
+#Btn{
+    width: 90px;
+    height: 50px;
+    border-radius: 8px;
+    background: royalblue;
+    color: black;
+    margin-bottom: 2px;
+}
+.candc{
+    display: flex;
+}
+.country{
+    color: indigo;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top:20px ;
+}
+.country >h2{
+    margin-left: 40px;
+    font-size: 50px;
+}
+.confirm{
+    background-color: #b3a5c7ef;
+    border: 2px solid purple;
+    height: 90px;
+    width: 160px;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+.confirm >h2{
+   margin-top: 20px;
+   margin-left: 30px;
+}
+.confirm >p{
+    margin-left: 50px;
+}
+.dad{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+.Death{
+    background-color: white;
+    border: 1px solid white;
+    height: 90px;
+    width: 260px;
+    border-radius: 10px;   
+}
+.Death > h2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.Death > p{
+    margin-left: 100px;
+    color: grey;
+}
+.date{
+    background-color: white;
+    border: 1px solid white;
+    height: 90px;
+    width: 260px;
+    border-radius: 10px;   
+}
+.date > h2{
+    font-size: 18px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.date > p{
+    margin-left: 100px;
+    color: grey;
+}
+.active{
+    background-color: white;
+    border: 1px solid white;
+    height: 90px;
+    width: 260px;
+    border-radius: 10px;   
+}
+.active > h2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.active > p{
+    margin-left: 100px;
+    color: grey;
+}
